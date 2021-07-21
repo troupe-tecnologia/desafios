@@ -8,7 +8,9 @@ Esse sistema deverá conter
 
 - Uma tela de listagem dos clientes
 
-- Deverá ter uma forma de logout, jogando o usuário pra tela de login
+- Um topbar/navbar que estará fixo nas telas acima, com um nome bem criativo para seu sistema e dois botões de navegação, um para cada tela acima citada. Também deverá ter uma forma de logout, jogando o usuário pra tela de login
+
+- O formulário deverá ser responsivo
 
 - O formulário e a listagem deverão ser acessadas apenas por usuários autenticados na tela de login
   
@@ -16,11 +18,13 @@ Esse sistema deverá conter
 
 ## Especificações técnicas
 
-- Deve ser feito com React Native
+- Deve ser feito com React
 
 - react-router
 
 - Algum toast/notification
+
+- Se quiser usar uma lib de UI components, dê preferencia para o [SemanticUI](http://react.semantic-ui.com/)
 
 - *styled-components
 
@@ -51,8 +55,7 @@ Apague o conteúdo do arquivo e cole o seguinte lá:
     "usuarios": [
       {
         "email":"teste@emaill.com.br",
-        "password": "123456", 
-        "token": "token"
+        "password": "123456"
       }
     ]
   },
@@ -69,7 +72,7 @@ Para rodar o servidor, use o comando:
 
 O delay é pra dar aquela esperada, como acontece normalmente com uma API de verdade :)
 
-Não é necessário (nem recomendado) criar um backend
+Não é necessário (nem recomendado) criar um backend, pois a vaga é 100% frontend
 
 ---
 
@@ -140,6 +143,10 @@ Não precisa ser responsiva
 
 Seria fantástico se você escrevesse testes automatizados para essa aplicação. Há um tempo começamos a criar essa cultura também no front-end
 
+Aqui usamos o `@testing-library/react`, `@testing-library/jest-dom`, `jest` e `nock`
+
+Essa parte é realmente importante para ir pra próxima etapa
+
 ## Considerações finais
 
 Prezamos muito pela usabilidade do sistema, então onde você achar que cabe uma facilidade para o uso do sistema, manda bala!
@@ -148,4 +155,4 @@ Por exemplo: Após colocar o CEP e preencher todos os campos de endereço, mude 
 
 ## Envio
 
-Aplicação pode ser enviado via link do Bitbucket ou Github
+Aplicação pode ser enviado via link do Bitbucket.
