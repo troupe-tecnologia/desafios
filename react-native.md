@@ -20,7 +20,7 @@ Esse sistema deverá conter
 
 - Deve ser feito com React
 
-- react-router
+- React Navigation
 
 - Algum toast/notification
 
