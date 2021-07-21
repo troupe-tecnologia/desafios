@@ -85,7 +85,7 @@ As únicas validações serão
 - Email em formato válido
 - Senha maior que 4 caracteres
 
-Após o submit, deverá guardar um token no local-storage
+Após o submit, deverá guardar um token no async storage
 
 ---
 
