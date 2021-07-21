@@ -24,8 +24,6 @@ Esse sistema deverá conter
 
 - Algum toast/notification
 
-- Se quiser usar uma lib de UI components, dê preferencia para o [SemanticUI](http://react.semantic-ui.com/)
-
 - *styled-components
 
 - *typescript
