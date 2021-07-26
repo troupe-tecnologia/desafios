@@ -141,7 +141,7 @@ Não precisa ser responsiva
 
 Seria fantástico se você escrevesse testes automatizados para essa aplicação. Há um tempo começamos a criar essa cultura também no front-end
 
-Aqui usamos o `@testing-library/react`, `@testing-library/jest-dom`, `jest` e `nock`
+Aqui usamos o `@testing-library/react-native`, `@testing-library/jest-native` e `jest`
 
 Essa parte é realmente importante para ir pra próxima etapa
 
