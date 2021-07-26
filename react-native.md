@@ -18,7 +18,7 @@ Esse sistema deverá conter
 
 ## Especificações técnicas
 
-- Deve ser feito com React
+- Deve ser feito com React-Native
 
 - React Navigation
 
