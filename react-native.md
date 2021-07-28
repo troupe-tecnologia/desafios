@@ -153,4 +153,4 @@ Por exemplo: Após colocar o CEP e preencher todos os campos de endereço, mude 
 
 ## Envio
 
-Aplicação pode ser enviado via link do Bitbucket.
+Aplicação pode ser enviado via link do Bitbucket ou Github.
