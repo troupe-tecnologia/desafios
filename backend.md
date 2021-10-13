@@ -27,4 +27,4 @@ Desenvolvimento de API em PHP para manipular dados de cidadão.
 
 ## Envio
 
-Aplicação pode ser enviado via link do Bitbucket.
+Aplicação pode ser enviado via link do Bitbucket ou Github.
