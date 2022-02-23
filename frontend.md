@@ -16,7 +16,7 @@ Esse sistema deverá conter
 
 ## Especificações técnicas
 
-- Deve ser feito com React Native
+- Deve ser feito com React
 
 - react-router
 
